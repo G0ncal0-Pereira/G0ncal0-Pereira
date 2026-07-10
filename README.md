@@ -5,14 +5,14 @@
 -->
 
 - 👨‍🎓 I’m currently studying Computer Science at ESTGV - IPV
-- 📧 Contact me here: vasco1900c@gmail.com
+- 📧 Contact me here: goncalosantospereira@gmai.com
 <!-- 
 - 📋 This is my portfolio: https//...
 - 🔭 I’m currently working on ...
 - 🤔 I’m looking for help with ...
 -->
 
-[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=vsko2014&stars=false&issues=false)](https://www.readmecodegen.com/custom-github-card-generator)
+<!--[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=vsko2014&stars=false&issues=false)](https://www.readmecodegen.com/custom-github-card-generator)-->
 <!-- 
 [![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=vsko2014&cardType=langs&stars=false&issues=false)](https://www.readmecodegen.com/custom-github-card-generator)
 -->
